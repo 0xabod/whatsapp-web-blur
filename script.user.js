@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         WhatsApp Web Privacy Blur Pro
+// @name         WhatsApp Web Blur Pro
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Blur chats, messages, media with hover reveal + toggle
+// @description  Privacy blur for WhatsApp Web
+// @author       0xabod
 // @match        https://web.whatsapp.com/*
-// @downloadURL https://raw.githubusercontent.com/0xabod/whatsapp-web-blur/main/whatsapp-blur.user.js
-// @updateURL   https://raw.githubusercontent.com/0xabod/whatsapp-web-blur/main/whatsapp-blur.user.js
+// @downloadURL  https://raw.githubusercontent.com/0xabod/whatsapp-web-blur/main/whatsapp-blur.user.js
+// @updateURL    https://raw.githubusercontent.com/0xabod/whatsapp-web-blur/main/whatsapp-blur.user.js
 // @grant        none
 // ==/UserScript==
 
