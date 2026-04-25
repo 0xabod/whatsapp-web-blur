@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Blur chats, messages, media with hover reveal + toggle
 // @match        https://web.whatsapp.com/*
+// @downloadURL https://raw.githubusercontent.com/0xabod/whatsapp-web-blur/main/whatsapp-blur.user.js
+// @updateURL   https://raw.githubusercontent.com/0xabod/whatsapp-web-blur/main/whatsapp-blur.user.js
 // @grant        none
 // ==/UserScript==
 
